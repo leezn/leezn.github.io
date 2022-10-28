@@ -72,6 +72,15 @@
 		"filterable": 1,
 		"ext": "https://leezn.github.io/TVBox/Pyramid/plugin/py_voflix.py"
 	},{
+		"key": "py_freezb",
+		"name": "体育直播",
+		"type": 3,
+		"api": "py_freezb",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://leezn.github.io/TVBox/Pyramid/plugin/py_freezb.py"
+	},{
 		"key": "py_bilimd",
 		"name": "B站影视",
 		"type": 3,
@@ -80,24 +89,6 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://leezn.github.io/TVBox/Pyramid/plugin/py_bilimd.py"
-	},{
-		"key": "py_gimytv",
-		"name": "剧迷",
-		"type": 3,
-		"api": "py_gimytv",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://leezn.github.io/TVBox/Pyramid/plugin/py_gimytv.py"
-	},{
-		"key": "py_genmov",
-		"name": "跟剧",
-		"type": 3,
-		"api": "py_genmov",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://leezn.github.io/TVBox/Pyramid/plugin/py_genmov.py"
 	},{
 		"key": "py_qie",
 		"name": "企鹅体育",
@@ -134,15 +125,6 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://leezn.github.io/TVBox/Pyramid/plugin/py_cokemv.py"
-	},{
-		"key": "py_xmaomi",
-		"name": "猫咪",
-		"type": 3,
-		"api": "py_xmaomi",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://leezn.github.io/TVBox/Pyramid/plugin/py_xmaomi.py"
 	},{
 		"key": "py_gitcafe",
 		"name": "小纸条",
