@@ -9,6 +9,33 @@
 		"filterable": 1,
 		"ext": "https://leezn.github.io/TVBox/Pyramid/plugin/py_kunyu77.py"
 	},{
+		"key": "py_libvio",
+		"name": "LIbvio(PY)",
+		"type": 3,
+		"api": "py_libvio",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://leezn.github.io/TVBox/Pyramid/plugin/py_libvio.py"
+	},{
+		"key": "py_lezhu",
+		"name": "乐猪影视(PY)",
+		"type": 3,
+		"api": "py_lezhu",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://leezn.github.io/TVBox/Pyramid/plugin/py_lezhu.py"
+	},{
+		"key": "py_cup",
+		"name": "茶杯狐(PY)",
+		"type": 3,
+		"api": "py_cup",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://leezn.github.io/TVBox/Pyramid/plugin/py_cup.py"
+	},{
 		"key": "py_bilivd",
 		"name": "B站",
 		"type": 3,
@@ -181,13 +208,13 @@
 		"ext": "https://leezn.github.io/TVBox/Pyramid/plugin/py_ali.py"
 	},{
 		"key":"t4public",
-		"name":"T4公共2",
+		"name":"T4公共",
 		"type":4,
-		"api":"https://t4.secan.icu/vod?sites=all&ali_token=7f6f2851be4c411d8297823a7f85cc61&timeout=10",
+		"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://kebedd69.github.io/TVbox-interface/token.json&timeout=10",
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":0,
-		"jar":"https://leezn.github.io/TVBox/jar/0919.jar"
+		"jar":"https://leezn.github.io/TVBox/jar/1008.jar"
 }],
 	"parses": [{
 		"name": "默认选项",
