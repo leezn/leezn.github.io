@@ -1,4 +1,5 @@
 {
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -13,7 +14,6 @@
       "type": 3,
       "api": "csp_Bili",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
       "key": "AList",
@@ -21,7 +21,6 @@
       "type": 3,
       "api": "csp_AList",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
       "key": "drpy_js_Alist",
