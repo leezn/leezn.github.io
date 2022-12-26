@@ -36,6 +36,7 @@
       "type": 3,
       "api": "csp_Paper",
       "ext": "http://ali.饭太硬.ml/tok"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
       "key": "易搜",
@@ -43,6 +44,7 @@
       "type": 3,
       "api": "csp_YiSo",
       "ext": "http://ali.饭太硬.ml/tok"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
       "key": "盘搜",
@@ -50,6 +52,7 @@
       "type": 3,
       "api": "csp_PanSou",
       "ext": "http://ali.饭太硬.ml/tok"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
       "key": "UP云搜",
@@ -57,6 +60,7 @@
       "type": 3,
       "api": "csp_UpYun",
       "ext": "http://ali.饭太硬.ml/tok"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
       "key": "找资源",
@@ -64,6 +68,7 @@
       "type": 3,
       "api": "csp_Zhaozy",
       "ext": "http://ali.饭太硬.ml/tok"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
       "key": "drpy_js_360影视",
