@@ -1200,9 +1200,9 @@
       "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     },
     {
-      "name": "tkys",
+      "name": "B站1",
       "type": 1,
-      "url": "https://rx.bt5v.com/json/jsonindex.php/?url=",
+      "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -1218,11 +1218,8 @@
           "乐视",
           "mgtv",
           "芒果",
-          "rx",
-          "ltnb",
           "bilibili",
           "1905",
-          "xigua"
         ]
       }
     },
