@@ -94,7 +94,7 @@
   ],
   "lives":[
     {
-      "group":"蓝鲸直播源",
+      "group":"redirect",
       "channels":[
         {
           "name":"lives",
