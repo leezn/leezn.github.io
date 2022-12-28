@@ -1071,7 +1071,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9sZWV6bjA5L2xhbmppbmdfbGl2ZS8tL3Jhdy9tYWluL1RWYm94X0ZyZWUvTElWRS9GcmVlL3R2Ym94X2xpdmUudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9DeXJpbDA1NjMvbGFuamluZ19saXZlL21haW4vVFZib3hfRnJlZS9MSVZFL0ZyZWUvdHZib3hfbGl2ZS50eHQ="
           ]
         }
       ]
@@ -2434,6 +2434,6 @@
     "mgtv",
     "wasu"
   ],
-  "wallpaper": "https://bing.img.run/rand.php",
-  "spider": "https://gitcode.net/leezn09/CatVodSpider/-/raw/main/jar/custom_spider.jar"
+  "wallpaper":"https://bing.img.run/rand.php",
+  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 }
