@@ -8,6 +8,13 @@
       "ext":"https://gitcode.net/leezn09/drpy/-/raw/master/js/drpy.js"
     },
     {
+      "key":"drpy_js_Alist",
+      "name":"网盘 | Alist[js]",
+      "type":3,
+      "api":"https://gitcode.net/leezn09/drpy/-/raw/master/libs/alist.min.js",
+      "ext":"https://gitcode.net/leezn09/drpy/-/raw/master/txt/json/alist.json"
+    },
+    {
       "key":"drpy_js_腾云驾雾",
       "name":"官源 | 腾讯[js]",
       "type":3,
@@ -98,7 +105,7 @@
       "channels":[
         {
           "name":"lives",
-          "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9DeXJpbDA1NjMvbGFuamluZ19saXZlL21haW4vVFZib3hfRnJlZS9MSVZFL0ZyZWUvdHZib3hfbGl2ZS50eHQ="]
+          "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vbGVlem4wOS9sYW5qaW5nX2xpdmUvcmF3L21haW4vVFZib3hfRnJlZS9MSVZFL0ZyZWUvdHZib3hfbGl2ZS50eHQ="]
         }
       ]
     }
@@ -119,5 +126,5 @@
   "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","wuduzy","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
   "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
   "wallpaper":"https://bing.img.run/rand.php",
-  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+  "spider":"https://gitee.com/leezn09/CatVodSpider/raw/main/jar/custom_spider.jar"
 }
