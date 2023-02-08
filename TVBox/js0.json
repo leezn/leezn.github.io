@@ -1,6 +1,5 @@
 {
   "spider":"https://gitee.com/leezn09/CatVodSpider/raw/main/jar/custom_spider.jar",
-  "wallpaper":"https://bing.img.run/rand.php",
   "sites":[
     {
       "key":"drpy_js_豆瓣",
@@ -1482,4 +1481,5 @@
     "mgtv",
     "wasu"
   ],
+  "wallpaper":"https://bing.img.run/rand.php"
 }
